@@ -42,7 +42,7 @@ const BLOG = {
       owner: 'alexlee-git',
       admin: ['alexlee-git'],
       clientID: '2ff7861d07e256d38393',
-      clientSecret: process.env.clientSecret,
+      clientSecret: '3e67c255476c26f351179da03d4a784598163010',
       distractionFreeMode: false
     },
     utterancesConfig: {
