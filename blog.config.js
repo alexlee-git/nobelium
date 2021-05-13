@@ -40,7 +40,7 @@ const BLOG = {
     gitalkConfig: {
       repo: 'https://github.com/alexlee-git/gtalk', // The repository of store comments
       owner: 'alexlee-git',
-      admin: [alexlee-git],
+      admin: ['alexlee-git'],
       clientID: '2ff7861d07e256d38393',
       clientSecret: 'a55c574d4c4c46e47a6060086761d1a4d440747e',
       distractionFreeMode: false
