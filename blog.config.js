@@ -41,7 +41,7 @@ const BLOG = {
       repo: 'gtalk', // The repository of store comments
       owner: 'alexlee-git',
       admin: ['alexlee-git'],
-      clientID: 'process.env.clientID',
+      clientID: '2ff7861d07e256d38393',
       clientSecret: 'process.env.clientSecret',
       distractionFreeMode: false
     },
